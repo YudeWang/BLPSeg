@@ -1,0 +1,12 @@
+torch>=1.7.0
+torchvision>=0.8.1
+numpy<=1.23.0
+scipy
+tqdm
+pandas
+opencv-python
+scikit-image
+pillow
+tensorboardX
+cython
+-e git+http://github.com/lucasb-eyer/pydensecrf.git#egg=pydensecrf
